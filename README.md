@@ -1,2 +1,1 @@
-# Nikhil-Yadav
-Nikhil-Yadav github pages
+Simple github portfolio for my developer profile
